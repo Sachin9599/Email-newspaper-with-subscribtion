@@ -1,0 +1,86 @@
+body {
+  background-color: rgb(38, 38, 86);
+}
+.container {
+  padding-top: 7px;
+}
+.body{
+  position: relative;
+  height: 66vh;
+}
+.hr {
+  width: 200vh;
+  color: white;
+  text-align: center;
+  margin-left: 23px;
+}
+p {
+  color: white;
+  right: 233px;
+  font-weight: 500;
+}
+.fa {
+  padding-left: 15px;
+  color: white;
+}
+.footer {
+  color: white;
+  text-align: center;
+}
+a {
+  color: white;
+  text-decoration: none;
+  padding: 7px;
+}
+.head {
+  margin: 23px;
+  font-style: bold;
+  font-weight: 700;
+}
+.data {
+  color: white;
+}
+.btn {
+  color: blue;
+  height: 51px;
+  border: 2px solid blue;
+  text-align: center;
+  width: 341px;
+}
+.btn:hover{
+  color:rgb(223, 240, 223);
+  background-color:  rgb(97, 97, 247);
+  border: 2px solid rgb(97, 97, 247);
+
+}
+.data {
+  color: white;
+
+}
+.fa-arrow-up{
+  color:rgb(97, 97, 247);
+}
+.fa-arrow-up:hover{
+  color:rgb(223, 240, 223);
+
+}
+.form{
+  margin-top: 23px;
+}
+.submit{
+  border-radius: 23px;
+  margin-top: 12px;
+  width: 90px;
+  height: 40px;
+}
+.submit:hover{
+  color:white;
+  background-color: blue;
+
+}
+.email{
+  border-radius: 23px;
+  height: 40px;
+  width: 260px;
+
+}
